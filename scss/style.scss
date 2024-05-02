@@ -1,0 +1,22 @@
+//Base
+@import "base/reset";
+@import "base/vars";
+@import "base/utilities";
+
+//Components
+@import "components/nav";
+@import "components/subtitulo";
+@import "components/contacto";
+@import "components/consulta";
+@import "components/footer";
+@import "components/mapa";
+
+//Layout
+@import "layout/index";
+@import "layout/Derecho Laboral";
+@import "layout/Derecho Civil";
+@import "layout/Nosotros";
+@import "layout/Encuentranos";
+
+//Media
+@import "Media/media";
